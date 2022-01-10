@@ -1,0 +1,13 @@
+a {
+font-family:"Sen";    
+color:green;
+font-size: 30px;
+
+}
+
+a:hover{
+font-family:"Sen";
+color:lime;
+font-size: 30px;
+
+}
